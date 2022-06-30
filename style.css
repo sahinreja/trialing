@@ -7,3 +7,9 @@
 body{
     background-color: lightcoral;
 }
+
+.dev_1{
+    padding: 5px;
+    border:1px solid red;
+    color:blue;
+}
